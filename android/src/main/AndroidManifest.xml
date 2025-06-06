@@ -1,4 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:namespace="http://schemas.softfobia.com/audio_mode_plugin"
-  package="com.softfobia.audio_mode_plugin">
+  xmlns:namespace="http://schemas.softfobia.com/audio_mode_plugin">
 </manifest>
